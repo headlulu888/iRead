@@ -15,5 +15,5 @@
 /log/*
 !/log/.keep
 /tmp
-.gitignore
+.idea
 .DS_Store
